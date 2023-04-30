@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Bootstrap = () => {
+  return (
+    <div>
+      <h3>Custmize Your Bootstrap</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque sapiente minima dicta enim veniam iusto aspernatur quae. Ab enim beatae optio ea quasi, accusamus minima asperiores! Fuga nam at aliquid voluptate a, atque ab cumque tempora, sit magni sequi facilis recusandae facere optio non suscipit iste veniam placeat corrupti, culpa accusantium? Ipsa accusantium tenetur quas obcaecati, vero placeat nam deleniti quam saepe. Aliquid sed repellat incidunt, obcaecati reprehenderit laboriosam quos officia eum? Quidem architecto autem eaque laborum quaerat ipsum totam recusandae incidunt odit cum impedit doloremque, accusamus, maiores voluptas corporis vel enim quasi fugit perspiciatis! Esse maiores fugiat animi cupiditate, tempora sit sunt fugit officia, deleniti exercitationem at optio recusandae dolores. Earum, ut maiores. Aspernatur porro excepturi ea dolor, hic temporibus aut recusandae ullam dolores fuga est vel. Assumenda tempore eius aliquid quis blanditiis, voluptate animi excepturi alias id, accusamus dolor iste voluptatum, sequi corrupti pariatur voluptas vitae. Delectus hic iusto iure maxime ut nemo cum consectetur impedit placeat error fuga, nobis suscipit. Consequuntur labore dicta neque praesentium velit odit veritatis, dolorum asperiores, earum illum ullam quod dolores delectus blanditiis illo id! In adipisci, quisquam numquam mollitia quaerat ipsum dolore voluptates aut accusamus voluptatem laudantium fuga assumenda, delectus fugiat, culpa sunt amet odio expedita dolorum a! Dicta sunt inventore fugiat harum sit quia nihil suscipit quod ad molestias reiciendis libero, alias perspiciatis ipsum nostrum quos culpa nam? Labore porro, tenetur fugit tempora doloribus inventore id ipsa quis vero, placeat distinctio laboriosam animi veritatis quas hic. Beatae quod corrupti aut debitis tempore minima provident nihil alias reiciendis assumenda quae officiis consequuntur illum repudiandae consectetur voluptatibus dolore exercitationem ducimus possimus deleniti, distinctio perferendis harum autem. Facilis voluptatem dolor modi facere quam esse aspernatur quas praesentium sunt voluptatum, eos obcaecati veritatis dolores rem, maxime molestias recusandae minima tenetur quibusdam tempore mollitia, temporibus dicta!</p>
+    </div>
+  )
+}
+
+export default Bootstrap;
